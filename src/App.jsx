@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App bg-dark text-light">
+    <div className="App">
       <h1>Pokemon</h1>
       <FetchPokemon/>
     </div>
